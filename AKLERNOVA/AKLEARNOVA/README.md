@@ -63,3 +63,34 @@ Institutions: Schools, universities, corporate training departments, and other e
 ## Conclusion
 The AK Learnova Platform is poised to transform the educational landscape by providing an accessible, flexible, and engaging learning experience. Through cutting-edge technology and a focus on user-centric design, VEP aims to empower learners and educators alike, fostering a global community of lifelong learners.
 
+
+#OUTPUT
+https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/2cfa5192-4480-4fec-afe2-bb8e2d04f897
+
+##WEBSITE PREVIEW
+
+![1](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/b8e3b1e1-a67e-4e1d-9547-150cd1afb3fb)
+
+![2](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/dbf60654-5290-4b97-af4c-1ada38ca121c)
+
+![3](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/97bd4682-2d7b-4326-8fac-388ef29eaec4)
+
+![4](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/71ccccdb-406a-4d4b-8b7b-9f8af35eb88f)
+
+![5](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/15694366-5f62-4bf0-abc7-64b763ed00a6)
+
+![6](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/7500ca4e-8701-4a1d-8d12-3e53ac28d8cc)
+
+![7](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/94840fbd-c7d5-4cf8-89cc-3668d907c18c)
+
+![8](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/ee431e9a-5776-4d7b-9bea-c41d6ce05a65)
+
+![9](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/f9a6d127-da69-401e-a6f6-3eaeac06aeec)
+
+![10](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/a0cf8525-f0b0-496f-ae14-5e29764f7ab2)
+
+![11](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/f56fb55a-54e0-40b5-9cbd-143e01419f6c)
+
+![12](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/dad3c4ec-5ffc-413b-9a12-71d5a3e11ab4)
+
+![13](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/5321e394-a052-4126-b983-39e9d05fd00f)
