@@ -1,6 +1,6 @@
 # FutureReadySkillProject
-Microsoft Internship
-#azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
+
+#### azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
 
 # AK LEARNOVA
 The AK Learnova platform is an innovative online learning system designed to provide comprehensive educational services to students, educators, and institutions worldwide. The platform leverages advanced technologies to deliver a flexible, interactive, and personalized learning experience. The primary goal of VEP is to democratize education by making high-quality learning resources accessible to anyone, anywhere, at any time.
