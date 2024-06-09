@@ -56,20 +56,20 @@ Institutions: Schools, universities, corporate training departments, and other e
 
 ## Benefits
 
-### Accessibility: Provides learners with access to education regardless of geographical location.
-### Flexibility: Allows students to learn at their own pace and on their own schedule.
-### Engagement: Interactive and engaging content to keep learners motivated.
-### Efficiency: Streamlines administrative tasks for educators and institutions.
-### Scalability: Can easily scale to accommodate a growing number of users and courses.
+Accessibility: Provides learners with access to education regardless of geographical location.
+Flexibility: Allows students to learn at their own pace and on their own schedule.
+Engagement: Interactive and engaging content to keep learners motivated.
+Efficiency: Streamlines administrative tasks for educators and institutions.
+Scalability: Can easily scale to accommodate a growing number of users and courses.
 
 ## Conclusion
 The AK Learnova Platform is poised to transform the educational landscape by providing an accessible, flexible, and engaging learning experience. Through cutting-edge technology and a focus on user-centric design, VEP aims to empower learners and educators alike, fostering a global community of lifelong learners.
 
 
-#OUTPUT
+## OUTPUT
 https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/2cfa5192-4480-4fec-afe2-bb8e2d04f897
 
-##WEBSITE PREVIEW
+### WEBSITE PREVIEW
 
 ![1](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/b8e3b1e1-a67e-4e1d-9547-150cd1afb3fb)
 
