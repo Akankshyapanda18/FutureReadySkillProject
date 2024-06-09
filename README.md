@@ -3,7 +3,18 @@
 #### azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
 
 # AK LEARNOVA
+## PROJECT DESCRIPTION
 The AK Learnova platform is an innovative online learning system designed to provide comprehensive educational services to students, educators, and institutions worldwide. The platform leverages advanced technologies to deliver a flexible, interactive, and personalized learning experience. The primary goal of VEP is to democratize education by making high-quality learning resources accessible to anyone, anywhere, at any time.
+
+## AZURE TECHNOLOGIES USED:
+1. Static Web Apps for deployment of the website
+2. azure storage Accounts
+3. Containers
+
+## WEB TECHNOLOGIES USED:
+1. HTML
+2. CSS
+3. JAVASCRIPT
 
 ## Key Features
 ### User-Friendly Interface:
