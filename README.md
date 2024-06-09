@@ -57,9 +57,13 @@ Institutions: Schools, universities, corporate training departments, and other e
 ## Benefits
 
 Accessibility: Provides learners with access to education regardless of geographical location.
+
 Flexibility: Allows students to learn at their own pace and on their own schedule.
+
 Engagement: Interactive and engaging content to keep learners motivated.
+
 Efficiency: Streamlines administrative tasks for educators and institutions.
+
 Scalability: Can easily scale to accommodate a growing number of users and courses.
 
 ## Conclusion
