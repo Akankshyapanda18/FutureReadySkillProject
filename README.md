@@ -16,7 +16,7 @@ The AK Learnova platform is an innovative online learning system designed to pro
 2. CSS
 3. JAVASCRIPT
 
-## Key Features
+## KEY FEATURES
 ### User-Friendly Interface:
 -Intuitive and responsive design for ease of use on various devices (desktops, tablets, smartphones).
 
@@ -65,7 +65,7 @@ The AK Learnova platform is an innovative online learning system designed to pro
 -Educators: Teachers, professors, and trainers looking for an effective way to deliver content and interact with students.
 -Institutions: Schools, universities, corporate training departments, and other educational organizations.
 
-## Benefits
+## BENEFITS
 
 *Accessibility: Provides learners with access to education regardless of geographical location.
 
@@ -77,7 +77,7 @@ The AK Learnova platform is an innovative online learning system designed to pro
 
 *Scalability: Can easily scale to accommodate a growing number of users and courses.
 
-## Conclusion
+## CONCLUSION
 The AK Learnova Platform is poised to transform the educational landscape by providing an accessible, flexible, and engaging learning experience. Through cutting-edge technology and a focus on user-centric design, VEP aims to empower learners and educators alike, fostering a global community of lifelong learners.
 
 
