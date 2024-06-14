@@ -1,7 +1,5 @@
 # FutureReadySkillProject
 
-#### azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
-
 # AK LEARNOVA
 ## PROJECT DESCRIPTION
 The AK Learnova platform is an innovative online learning system designed to provide comprehensive educational services to students, educators, and institutions worldwide. The platform leverages advanced technologies to deliver a flexible, interactive, and personalized learning experience. The primary goal of VEP is to democratize education by making high-quality learning resources accessible to anyone, anywhere, at any time.
@@ -111,3 +109,5 @@ https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/2cf
 ![12](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/dad3c4ec-5ffc-413b-9a12-71d5a3e11ab4)
 
 ![13](https://github.com/Akankshyapanda18/FutureReadySkillProject/assets/113163017/5321e394-a052-4126-b983-39e9d05fd00f)
+
+#### azure link https://jolly-mud-02abb3610.1.azurestaticapps.net/
